@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first git repository
-Author - Nakul Sharma
+Author - Nakul Sharma (Stanza)
